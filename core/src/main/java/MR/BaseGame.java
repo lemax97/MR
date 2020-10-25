@@ -1,4 +1,4 @@
-package FW;
+package MR;
 
 import com.badlogic.gdx.Game;
 import com.badlogic.gdx.Gdx;
